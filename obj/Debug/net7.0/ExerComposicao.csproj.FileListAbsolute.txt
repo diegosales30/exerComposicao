@@ -1,0 +1,14 @@
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\bin\Debug\net7.0\ExerComposicao.exe
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\bin\Debug\net7.0\ExerComposicao.deps.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\bin\Debug\net7.0\ExerComposicao.runtimeconfig.json
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\bin\Debug\net7.0\ExerComposicao.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\bin\Debug\net7.0\ExerComposicao.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.AssemblyInfoInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.AssemblyInfo.cs
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\refint\ExerComposicao.dll
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.pdb
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ExerComposicao.genruntimeconfig.cache
+C:\Users\diego\OneDrive\Área de Trabalho\c#\POOCompleto\ExerComposicao\obj\Debug\net7.0\ref\ExerComposicao.dll
